@@ -1,0 +1,4 @@
+artifact_location: file:///A:/Documentos%20M2/Portfolio/Binary_Classification_Titanic/Scripts/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Titanic Prediction

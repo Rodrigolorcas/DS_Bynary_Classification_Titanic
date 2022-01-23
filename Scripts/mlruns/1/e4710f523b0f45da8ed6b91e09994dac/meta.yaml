@@ -1,0 +1,15 @@
+artifact_uri: file:///A:/Documentos%20M2/Portfolio/Binary_Classification_Titanic/Scripts/mlruns/1/e4710f523b0f45da8ed6b91e09994dac/artifacts
+end_time: 1642895181431
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e4710f523b0f45da8ed6b91e09994dac
+run_uuid: e4710f523b0f45da8ed6b91e09994dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642895181055
+status: 3
+tags: []
+user_id: Roilo
